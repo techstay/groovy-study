@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="yitian.study.template.TemplateTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-03-06T17:23:26" hostname="LEO-OLDPC" time="0.434">
+  <properties/>
+  <testcase name="testSimpleTemplate" classname="yitian.study.template.TemplateTest" time="0.414"/>
+  <testcase name="testStreamingTemplate" classname="yitian.study.template.TemplateTest" time="0.019"/>
+  <system-out><![CDATA[Hello yitian, today is 2017-03-07!
+
+Dear yitian
+I'm glad to see you since last time.
+blahblah...
+              Yours 
+              lady
+              2017-03-07
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
